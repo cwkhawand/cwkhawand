@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-I'm Christopher, a Lebanese programmer currently living in France and pursuing studies in engineering!
-- 🔭 I’m currently working on [GrowStocks](https://growstocks.xyz) and [Growtopia Tech](https://growtopia.tech).
+I'm Christopher, a Lebanese developer currently living in France and pursuing studies in computer and electronics engineering!
 - ⚡ You can visit my portfolio by [clicking here](https://christopher.khawand.dev)!
 - 📫 You can reach me via christopher@khawand.dev
 
